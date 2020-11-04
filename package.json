@@ -52,6 +52,6 @@
     "ioredis": "4"
   },
   "peerDependencies": {
-    "ioredis": "4"
+    "ioredis": ">=4.0.0 <4.19.2 || ~4.19.2"
   }
 }
